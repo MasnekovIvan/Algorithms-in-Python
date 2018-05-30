@@ -1,1 +1,1 @@
-# Algorithms-in-Python
+# Simple algorithms with Python 3.
